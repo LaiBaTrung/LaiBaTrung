@@ -1,5 +1,5 @@
 # 💫 About Me:
-💡 Computer Science student at IUH (2024 – 2028)<br>🔭 I’m currently trying to improve myself through real projects.<br>🌱 I’m currently learning about web development.<br>⚡ Fun fact: I'm a dog person XD
+💡 Computer Science student at IUH (2024 – 2028)<br>🔭 I’m currently trying to improve myself through real projects.<br>🌱 I’m currently learning about web development.<br>⚡ Fun fact: I'm a dog person XD (unlike my oshi)
 
 
 ## 🌐 Socials:
